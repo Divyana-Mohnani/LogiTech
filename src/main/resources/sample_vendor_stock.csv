@@ -1,0 +1,6 @@
+barcode,design_no,category,design_name,gender,size,length,colour_code,quantity,vendor_price,mrp,condition,note
+M/L/B/BK,D1024,Swimwear,Classic Retail Swim Trunk,M,L,B,BK,50,450.00,999.00,Normal,Vendor batch 2026-A
+M/S/B/BL,D1024,Swimwear,Classic Retail Swim Trunk,M,S,B,BL,30,450.00,999.00,Normal,Vendor batch 2026-A
+M/M/FS/NV,D1025,Swimwear,AquaShield Long Sleeve Rashguard,M,M,FS,NV,20,650.00,1499.00,Normal,High demand item
+M/8/NA/BK,D2210,Footwear,HydroTrek Aqua Water Shoes,M,8,NA,BK,25,380.00,799.00,Normal,Standard stock
+M/FS/NA/BL,D3050,Accessories,Mirrored Anti-Fog Swim Goggles,M,FS,NA,BL,45,220.00,599.00,Normal,New color addition
